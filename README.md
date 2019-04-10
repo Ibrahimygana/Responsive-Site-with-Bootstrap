@@ -1,1 +1,1 @@
-# Responsive-Site-with-Bootstrap
+# Responsive-Site-with-just HTML & CSS
